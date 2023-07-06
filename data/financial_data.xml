@@ -1,0 +1,43 @@
+<users>
+  <user>
+    <id>1</id>
+    <name>John Doe</name>
+    <email>john.doe@example.com</email>
+    <balance>5000</balance>
+    <transactions>
+      <transaction>
+        <id>1</id>
+        <type>Deposit</type>
+        <amount>1000</amount>
+        <date>2023-06-01</date>
+      </transaction>
+      <transaction>
+        <id>2</id>
+        <type>Withdrawal</type>
+        <amount>500</amount>
+        <date>2023-06-10</date>
+      </transaction>
+      <transaction>
+        <id>3</id>
+        <type>Deposit</type>
+        <amount>2000</amount>
+        <date>2023-06-15</date>
+      </transaction>
+    </transactions>
+  </user>
+  <user>
+    <id>2</id>
+    <name>Jane Smith</name>
+    <email>jane.smith@example.com</email>
+    <balance>8000</balance>
+    <transactions>
+      <transaction>
+        <id>1</id>
+        <type>Deposit</type>
+        <amount>1500</amount>
+        <date>2023-06-05</date>
+      </transaction>
+      <transaction>
+        <id>2</id>
+        <type>Withdrawal</type
+

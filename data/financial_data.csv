@@ -1,0 +1,4 @@
+id,name,email,balance,transactions
+1,John Doe,john.doe@example.com,5000,"1,Deposit,1000,2023-06-01;2,Withdrawal,500,2023-06-10;3,Deposit,2000,2023-06-15"
+2,Jane Smith,jane.smith@example.com,8000,"1,Deposit,1500,2023-06-05;2,Withdrawal,1000,2023-06-20"
+
